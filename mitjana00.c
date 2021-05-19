@@ -24,5 +24,7 @@ int main() {
 	mitjana=suma/numero_repeticions;
 	printf("La mitjana resultant és: %.2f\n",mitjana);	
         printf("La mitjana ha estat trobada amb e?xit\n");
+	printf("La mitjana resultant és: %.2f\n",mitjana);
+        printf("Operacio? finalitzada amb e?xit\n");
 	return 0;
 }
